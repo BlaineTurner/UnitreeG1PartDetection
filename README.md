@@ -1,1 +1,0 @@
-# UnitreeG1PartDetection
