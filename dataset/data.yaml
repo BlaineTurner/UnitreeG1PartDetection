@@ -1,0 +1,9 @@
+path: /home/nvidia09/finalProject/dataset
+train: train
+val: val
+
+names:
+  0: arms
+  1: legs
+  2: head
+  3: body
